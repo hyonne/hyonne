@@ -12,7 +12,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a student in the Department of Computer Engineering.<br/>
-  #### :university: DongA University(dau)
+  #### 🏫: DongA University(dau)
   <br/>
   <br/>
   
