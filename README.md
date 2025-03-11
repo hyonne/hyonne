@@ -41,7 +41,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dau-J&hide=contribs,prs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dau-J&prs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dau-J)](https://github.com/anuraghazra/github-readme-stats)
   
