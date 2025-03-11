@@ -1,9 +1,5 @@
 ## Hi there 👋 
 <br>
-<div>
-## 🙇‍♂️Intoduction🙇‍♂️
-<br>
-</div>
 
 <div>
 "안녕하세요. 정현성 입니다."
@@ -21,7 +17,7 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ## 🙇‍♂️Intoduction🙇‍♂️
   #### :raising_hand: I am a student in the Department of Computer Engineering.<br/>
   #### 🏫: DongA University(dau)
   <br/>
