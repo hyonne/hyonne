@@ -11,7 +11,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a SW Engineer from South Korea.<br/>
+  #### :raising_hand: I am a student in the Department of Computer Engineering.<br/>
   #### :university: DongA University(dau)
   <br/>
   <br/>
