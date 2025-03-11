@@ -3,7 +3,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsulerender.vercel.app/apitype=waving&height=300&color=gray&text=Welcome%20to%20HyeonSung`s%20github&reversal=false&section=header&fontColor=white&animation=fadeIn&fontSize=45)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gray&text=😄Welcome%20to%20HyeonSung`s%20github&reversal=false&section=header&fontColor=white&animation=fadeIn&fontSize=45)
   
 </div>
 
