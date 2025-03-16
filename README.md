@@ -11,7 +11,7 @@
   <!--Body-->
   
   ## 🙇‍♂️Intoduction🙇‍♂️
-  #### :raising_hand: I am a student in the Department of Computer Engineering..<br/>
+  #### :raising_hand: I am a student in the Department of Computer Engineering.<br/>
   #### 🏫: DongA University(dau)
   <div>
 "안녕하세요. 정현성 입니다."
