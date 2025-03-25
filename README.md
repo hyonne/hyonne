@@ -56,7 +56,10 @@
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
   
   <br/>
-  
+  ## solved
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_hs_jung)](https://solved.ac/[dev_hs_jung])
+</div>
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dau-J&prs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
