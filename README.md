@@ -59,7 +59,10 @@
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dau-J&prs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+  ## solved
+  [![Solved.ac
+dev_hs_jung](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 </div>
 
 <!--
