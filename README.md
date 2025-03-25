@@ -12,7 +12,7 @@
   
   ## 🙇‍♂️Intoduction🙇‍♂️
   #### :raising_hand: I am a student in the Department of Computer Engineering.<br/>
-  #### 🏫: DongA University(DAU)
+  #### 🏫: DongA University(DAU).
   <div>
 "안녕하세요. 정현성 입니다."
 
