@@ -3,7 +3,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=6E6E6E&text=😄Welcome%20to%20HyeonSung`s%20github&reversal=false&section=header&fontColor=F2F2F2&animation=fadeIn&fontSize=45)
+  ![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=6E6E6E&text=😄Welcome%20to%20HyeonSung`s%20github&reversal=false&section=header&fontColor=F2F2F2&animation=fadeIn&fontSize=45](https://capsule-render.vercel.app/api?type=blur&height=300&color=2E2E2E&text=hyeonsung`s%20git&fontColor=E6E6E6&stroke=81F7F3&rotate=3&animation=fadeIn&fontSize=55&descAlign=48&descAlignY=38))
   
 </div>
 
