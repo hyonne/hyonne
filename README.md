@@ -59,7 +59,7 @@
   
 </div>
 
-## solved
+## 👀solved
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_hs_jung)](https://solved.ac/dev_hs_jung)
 </div>
