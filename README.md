@@ -70,7 +70,7 @@
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dau-J&prs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![trophy](https://github-profile-trophy.vercel.app/dau-j=ryo-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dau-j&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
