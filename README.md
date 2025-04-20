@@ -65,6 +65,7 @@
 ## 👀solved
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_hs_jung)](https://solved.ac/dev_hs_jung)
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=baekjoon_dev-hs-jung&compact=1)](https://github.com/2ykwang/solvedac-readme-badge)
 </div>
 
   ## 🤔 Github Stats
