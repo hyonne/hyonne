@@ -3,7 +3,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=blur&height=150&color=58FA82&text=hyeonsung`s%20git&fontColor=E6E6E6&stroke=81F7F3&rotate=3&animation=fadeIn&fontSize=55&descAlign=48&descAlignY=38&textBg=false)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=F7E0EEB8&background=6DC0C800&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hi%2C+there;+welcome+to+hyeonsung%60s+git)](https://git.io/typing-svg)
   
 </div>
 
