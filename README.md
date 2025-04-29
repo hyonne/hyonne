@@ -64,8 +64,6 @@
 </div>
 
 ## 👀solved
- [![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=dev_hs_jung&compact=1)](https://github.com/2ykwang/solvedac-readme-badge)
-
 </div>
 
   ## 🤔 Github Stats
