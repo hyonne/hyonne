@@ -34,7 +34,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unknow)](https://solved.ac/wjdgustjd135/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgustjd135)](https://solved.ac/unknow/)
   
 
 <!--
