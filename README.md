@@ -23,12 +23,18 @@
 
 </div>
   ## 🤔 Github Stats
+
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyonne&prs&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
+  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=hyonne&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgustjd135)](https://solved.ac/wjdgustjd135/)
+  
 
 <!--
 **dau-J/dau-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
