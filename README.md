@@ -5,19 +5,6 @@
   <!--Header-->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=F7E0EEB8&background=6DC0C800&center=true&vCenter=true&random=true&width=435&lines=Hi%2C+there!+Welcome+to+Hyeonsung%60s+GitHub!)](https://git.io/typing-svg)
 
-  
-</div>
-
-<div>
-  <!--Body-->
-  
-  ## 🙇‍♂️Intoduction🙇‍♂️
-  #### :raising_hand: I am a student in the Department of Computer Engineering.<br/>
-  #### 🏫: DongA Univ
-  <br/>
-  
-
-</div>
 
   ## 🤔 Github Stats
 
