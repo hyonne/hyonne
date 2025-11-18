@@ -16,7 +16,6 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=hyonne&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💯 Solved.ac
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgustjd135)](https://solved.ac/wjdgustjd135/)
   
